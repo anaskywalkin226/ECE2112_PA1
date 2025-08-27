@@ -1,4 +1,4 @@
-# PA 1
+# Programming Assignment 1
 ## Problem 1 : Create a function that takes a string and returns a string with its letters in alphabetical order.
 
 ```py
